@@ -1,0 +1,7 @@
+ArrayList<Integer> arr  = new ArrayList<>(Arrays.asList(1,2,3));
+
+// 2D array
+ArrayList<ArrayList<Integer>> arr  = new ArrayList<>();
+arr.add(new ArrayList<>(Arrays.asList(1,2,3)));
+arr.add(new ArrayList<>(Arrays.asList(1,2,3)));
+arr.add(new ArrayList<>(Arrays.asList(1,2,3)));
